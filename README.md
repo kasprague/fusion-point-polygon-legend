@@ -3,6 +3,9 @@ fusion-point-polygon-legend
 
 Searchable point and polygon layer map, with dynamic legend, using Google Maps and Fusion Tables
 
+## Mike's Demo
+http://mwwalsh.github.io/fusion-point-polygon-legend
+
 
 ## Our Demo
 http://kasprague.github.io/fusion-point-polygon-legend
